@@ -4,6 +4,11 @@
     <title>Mas Fai Web</title>
     <link>https://github.com/rifkaa227/rifkaa227.github.io/</link>
     <description>Recent content on Mas Fai Web</description>
+    <image>
+      <title>Mas Fai Web</title>
+      <url>https://github.com/rifkaa227/rifkaa227.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.com/rifkaa227/rifkaa227.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Feb 2023 20:28:00 +0700</lastBuildDate><atom:link href="https://github.com/rifkaa227/rifkaa227.github.io/index.xml" rel="self" type="application/rss+xml" />
