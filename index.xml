@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://github.com/rifkaa227/rifkaa227.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 20:28:00 +0700</lastBuildDate><atom:link href="https://github.com/rifkaa227/rifkaa227.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third Post</title>
       <link>https://github.com/rifkaa227/rifkaa227.github.io/posts/third-post/</link>
@@ -28,15 +28,6 @@
       
       <guid>https://github.com/rifkaa227/rifkaa227.github.io/posts/fist-post/</guid>
       <description>Hello guys this is my fist post on hugo</description>
-    </item>
-    
-    <item>
-      <title>Perbaikan CSS project</title>
-      <link>https://github.com/rifkaa227/rifkaa227.github.io/perbaikan-css/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://github.com/rifkaa227/rifkaa227.github.io/perbaikan-css/</guid>
-      <description>Desc Text.</description>
     </item>
     
     <item>
