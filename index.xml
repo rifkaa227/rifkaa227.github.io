@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mas Fai Web</title>
-    <link>https://github.com/rifkaa227/rifkaa227.github.io/</link>
+    <link>/</link>
     <description>Recent content on Mas Fai Web</description>
     <image>
       <title>Mas Fai Web</title>
-      <url>https://github.com/rifkaa227/rifkaa227.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/rifkaa227/rifkaa227.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Feb 2023 20:28:00 +0700</lastBuildDate><atom:link href="https://github.com/rifkaa227/rifkaa227.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 20:28:00 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third Post</title>
-      <link>https://github.com/rifkaa227/rifkaa227.github.io/posts/third-post/</link>
+      <link>/posts/third-post/</link>
       <pubDate>Wed, 15 Feb 2023 20:28:00 +0700</pubDate>
       
-      <guid>https://github.com/rifkaa227/rifkaa227.github.io/posts/third-post/</guid>
+      <guid>/posts/third-post/</guid>
       <description>this is my Third post for Site</description>
     </item>
     
     <item>
       <title>Fist Post</title>
-      <link>https://github.com/rifkaa227/rifkaa227.github.io/posts/fist-post/</link>
+      <link>/posts/fist-post/</link>
       <pubDate>Wed, 15 Feb 2023 19:29:55 +0700</pubDate>
       
-      <guid>https://github.com/rifkaa227/rifkaa227.github.io/posts/fist-post/</guid>
+      <guid>/posts/fist-post/</guid>
       <description>Hello guys this is my fist post on hugo</description>
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>https://github.com/rifkaa227/rifkaa227.github.io/posts/second-post/</link>
+      <link>/posts/second-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://github.com/rifkaa227/rifkaa227.github.io/posts/second-post/</guid>
+      <guid>/posts/second-post/</guid>
       <description>Desc Text.</description>
     </item>
     
